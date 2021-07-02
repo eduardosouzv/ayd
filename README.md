@@ -40,7 +40,7 @@ npm start # or yarn start
 
 <hr />
 
-## 📫 How to contribute
+## How to contribute
 
 Follow these steps:
 
