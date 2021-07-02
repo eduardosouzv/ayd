@@ -68,7 +68,7 @@ async function downloadVideo(url) {
     );
 
     stream.on("error", reject);
-    stream.on("close", resolve);
+    stream.on("end", resolve);
   });
 }
 
